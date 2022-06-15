@@ -4,13 +4,21 @@ body
     color: rgb(226, 43, 211);
     font-family:Arial, Helvetica, sans-serif;
 }
+.headboard {
+    background-color: rgb(226, 43, 211);
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 0.5em;
+    font-weight: bold;
+    margin: 0;
+    font-size: 400%;
+}
 .container {
     
     width: 70%;
-    padding: 1em;
     text-align: center;
     border: 3px solid rgb(255, 197, 247);
-    border-radius: 20px;
+    border-radius: 0px;
     margin:0 auto;
     margin-top: 5%;
 }
@@ -19,6 +27,13 @@ h1{
         margin-bottom: 80px;
 }
 p{
+<<<<<<< HEAD
     font-size: 160%;
     
+=======
+    font-size: 150%;
+}
+.post {
+    padding: 1em;
+>>>>>>> headboard
 }

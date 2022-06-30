@@ -14,9 +14,9 @@ body
     font-size: 400%;
 }
 .headboard > img {
-    width: 100px;
-    height: 100px;
-    padding-right: 20px;
+    width: 110px;
+    height: 110px;
+    margin-bottom: -25px;
 }
 .container {
     

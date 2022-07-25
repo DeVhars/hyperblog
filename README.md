@@ -12,4 +12,10 @@ This is a place that i'm dying to see.
 
 Thanks for visit my little project.
 
+<<<<<<< HEAD
 * Creado porel increible Fabionorrea
+=======
+* Creado porel increible Fabionorrea
+*Como esss ajaja
+*Disponible para las perrasss
+>>>>>>> readmeMejorado
